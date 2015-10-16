@@ -1,0 +1,10 @@
+Package: com.noahsaso.lockscreenheysiri
+Name: LockScreenHeySiri
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Always Hey Siri on LS
+Maintainer: Noah Saso <noahsaso@gmail.com>
+Author: Noah Saso <noahsaso@gmail.com>
+Section: Tweaks
+Depiction: http://repo.noahsaso.com/deps.php?pkg=com.noahsaso.lockscreenheysiri
